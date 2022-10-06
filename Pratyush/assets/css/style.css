@@ -12,9 +12,10 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
+
 img {
   width: auto ;
-  max-width: 100% ;
+  max-width: 100vw ;
   height: auto ;
 }
 
