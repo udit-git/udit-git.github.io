@@ -1,0 +1,7 @@
+SAA-C02
+AZ-104
+SAP HANA 2.0 SPS05
+Containers & Kubernetes Essentials
+Issued by IBM
+Fundamentals of Deep Learning
+Nvidia Deep Learning Institute
