@@ -12,6 +12,11 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
+img {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+}
 
 a {
   color: #149ddd;
